@@ -24,7 +24,7 @@ if '__repo__' == '__helpful__':
 
 
 <!--Social Channel-->
-<a href="https://www.linkedin.com/in/juliancremona/"><img src="[https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white](https://media.licdn.com/dms/image/C4D03AQGiE3ecnPkTQg/profile-displayphoto-shrink_800_800/0/1668117076885?e=2147483647&v=beta&t=iI8p7wzZXIFQmLRJJdJtoayjD-bUvx6r4oPGtwz7z80)" alt="Linkedin"></a>
+<a href="https://www.linkedin.com/in/juliancremona/"><img src="https://media.licdn.com/dms/image/C4D03AQGiE3ecnPkTQg/profile-displayphoto-shrink_800_800/0/1668117076885?e=2147483647&v=beta&t=iI8p7wzZXIFQmLRJJdJtoayjD-bUvx6r4oPGtwz7z80" alt="Linkedin"></a>
 <a href="https://dev.to/codewithgauri"><img src="https://img.shields.io/badge/DEV.TO-%231572B6.svg?&amp;style=for-the-badge&amp;logo=dev%20to&amp;logoColor=white" alt="Dev to"></a>
 
 
