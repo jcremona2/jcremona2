@@ -1,4 +1,4 @@
-## About me
+# Hi there 👋, I am Julian Cremona
 
 ```python
 from life import Creativity
@@ -23,21 +23,30 @@ if '__repo__' == '__helpful__':
 
 
 
-<!--Social Channel-->
-<a href="https://www.linkedin.com/in/juliancremona/"><img src="https://media.licdn.com/dms/image/C4D03AQGiE3ecnPkTQg/profile-displayphoto-shrink_800_800/0/1668117076885?e=2147483647&v=beta&t=iI8p7wzZXIFQmLRJJdJtoayjD-bUvx6r4oPGtwz7z80;logo=dev%20to&amp" alt="Linkedin"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-juliancremona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliancremona/)](https://www.linkedin.com/in/juliancremona/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1446358/wosimosi)](https://stackoverflow.com/users/1446358/wosimosi)
+[![Gmail Badge](https://img.shields.io/badge/-jncremona@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jncremona@gmail.com)](mailto:jncremona@gmail.com)
 
 
+- 🔭 **I’m currently working on server side Python technologies.**
+- 🌱 **I’m currently learning MEAN Architecture.**
+
+**Languages and Tools:**
+
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 
 
+![jcremona2's github stats](https://github-readme-stats.vercel.app/api?username=jcremona2&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcremona2&layout=compact)
 
-<!-- Language and tools badge-->
-## 🛠️ **Languages & Tools:**
-
-<p><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+[![trophy](https://github-profile-trophy.vercel.app/?username=jcremona2&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows"></p>
-
-<!-- Github Stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcremona2&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 
