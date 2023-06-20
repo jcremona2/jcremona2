@@ -10,7 +10,7 @@ class Life(Creativity):
 
     def current_projects(self):
         self.currently_learning = "MEAN Architecture 📚🌱"
-        self.currently_working_on = "Ciena Telecomunications 🔭 "
+        self.currently_working_on = "Wirall 🔭 "
         self.excited_for = "Web Development & Mahine Learning 🌎"
     
     def contact_me(self):
